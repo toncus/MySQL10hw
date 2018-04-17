@@ -1,0 +1,1 @@
+ALTER TABLE sakila.actor DROP COLUMN middle_name;  

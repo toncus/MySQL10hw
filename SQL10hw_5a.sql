@@ -1,0 +1,1 @@
+Show CREATE TABLE sakila.address;

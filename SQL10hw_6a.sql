@@ -1,0 +1,1 @@
+select first_name, last_name, address from sakila.address JOIN sakila.staff on address.address_id=staff.address_id;
